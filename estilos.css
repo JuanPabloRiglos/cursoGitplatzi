@@ -1,4 +1,19 @@
 body {
+    background-color: blueviolet;
     color: chocolate;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+
+
+header div {
+    background-color: rgb(63, 20, 220);
+    font-size: large
+}
+
+
+header span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(229, 255, 0);
+}
+
+;
