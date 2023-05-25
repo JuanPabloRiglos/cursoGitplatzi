@@ -6,6 +6,8 @@ body {
 
 
 header div {
+    display: inline-block;
+    align-content: center;
     background-color: rgb(63, 20, 220);
     font-size: large
 }
