@@ -1,9 +1,26 @@
-body {
+body { margin: 0;
     background-color: blueviolet;
     color: chocolate;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+header nav{
 
+    border: 1px solid black;
+    display: flex;
+   justify-content: space-around;
+    margin: 2%;
+    background-color: deeppink;
+    box-sizing: border-box;
+}
+header nav ul{border: 2px solid white;}
+header nav ul p{ color: black ; text-align: center;}
+header nav ul li{
+    display: inline;
+    color: black;
+    align-items: center;
+    justify-content: space-between;
+
+}
 
 header div {
     display: inline-block;
