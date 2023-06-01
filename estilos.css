@@ -36,6 +36,17 @@ header span {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(229, 255, 0);
 }
+
+h1{
+    text-align: center;
+}
+
+main{
+    width: 80%;
+    box-sizing: border-box;
+   margin-left: 5%;
+}
+
 section{
     
     margin: 15%;
@@ -49,5 +60,22 @@ section h2{
 section li{
     display: flex;
     
+}
+
+main picture{
+
+    color:darkgrey
+}
+
+main picture img{
+    margin-left: 5%;
+    width: 60%;
+}
+
+main p{
+    background-color: coral;
+    color:darkgrey
+}
+ol li a{color: black
 }
 ;
